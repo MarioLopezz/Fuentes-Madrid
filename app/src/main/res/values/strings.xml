@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FuentesMadrid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="encontrar_fuentes">ENCONTRAR FUENTES</string>
+    <string name="todo">TODO</string>
+</resources>
